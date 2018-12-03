@@ -137,7 +137,6 @@ def main(epochs=1):
                 target_data_onehot.scatter_(1, target_data.unsqueeze(1), 1)
                 test_loss += -torch.sum(torch.sum(torch.mul(target_data_onehot, torch.log(output)), dim=0))
                 pbar.update(1)
-                # calculate cross entropy loss for target data: same as training
 
     # average out the test results
     print('test loss:', float(test_loss) / len(test_loader.dataset))
