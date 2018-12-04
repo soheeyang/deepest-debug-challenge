@@ -8,7 +8,7 @@ The code runs fine and trains the model somehow, but not correctly.
 
 You are given a task to fix all the bugs in the code.
 
-_This code is for Quest 2 of [Deepest Season 5 Recruiting](https://drive.google.com/file/d/14nG3DwQIBcWFgD9YmOKYa__8HEYOZMK7/view)._
+__This code is for Quest 2 of [Deepest Season 5 Recruiting](https://drive.google.com/file/d/14nG3DwQIBcWFgD9YmOKYa__8HEYOZMK7/view).__
 
 # Usage
 
