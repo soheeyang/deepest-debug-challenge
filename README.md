@@ -1,5 +1,7 @@
 # deepest-debug-challenge
-Quiz code of debugging a badly-implemented neural network
+Quiz code of debugging a badly-implemented neural network.
+
+This code is for Quest 2 of [Deepest Season 5 Recruiting](https://drive.google.com/file/d/14nG3DwQIBcWFgD9YmOKYa__8HEYOZMK7/view).
 
 # Usage
 
