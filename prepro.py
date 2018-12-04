@@ -1,6 +1,6 @@
 '''
 There is no intended bug in this module.
-Please do not modify this code.
+You do not need to modify this code.
 '''
 
 import os
@@ -51,7 +51,7 @@ def prepro_datasets():
 
 '''
 Run python prepro.py to preprocess datasets as an npz file.
-The file will be saved as data/npz
+The file will be saved as data/prepro.npz
 '''
 if __name__ == '__main__':
     prepro_datasets()
