@@ -15,7 +15,7 @@ __This code is for Quest 2 of [Deepest Season 5 Recruiting](https://drive.google
 - __12/05__
 It seems like the original description in the link above was not clear enough.  
 Therefore, I rewrote some of the the descriptions just to make the requirements more clear.  
-Please refer to this link: http://bit.ly/2ANdfMW
+Please refer to this link: __http://bit.ly/2ANdfMW__
 
 # Usage
 
