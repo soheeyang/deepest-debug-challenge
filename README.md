@@ -10,6 +10,13 @@ You are given a task to fix all the bugs in the code.
 
 __This code is for Quest 2 of [Deepest Season 5 Recruiting](https://drive.google.com/file/d/14nG3DwQIBcWFgD9YmOKYa__8HEYOZMK7/view).__
 
+## Updates
+
+- __12/05__
+It seems like the original description in the link above was not clear enough.  
+Therefore, I rewrote some of the the descriptions just to make the requirements more clear.  
+Please refer to this link: http://bit.ly/2ANdfMW
+
 # Usage
 
 Use python >= 3.6.
