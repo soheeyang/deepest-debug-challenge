@@ -16,6 +16,8 @@ __This code is for Quest 2 of [Deepest Season 5 Recruiting](https://drive.google
 It seems like the original description in the link above was not clear enough.  
 Therefore, I rewrote some of the the descriptions just to make the requirements more clear.  
 Please refer to this link: __http://bit.ly/2ANdfMW__
+- __12/12__
+If you fix all the bugs, only __one epoch of training__ would be enough to get an accuracy of around 80%. Therefore, those who do not have any GPU, please feel free to tackle this problem. (In fact, I myself did not use any GPU till I finished designing this quest.)
 
 # Usage
 
