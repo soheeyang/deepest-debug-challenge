@@ -18,6 +18,8 @@ Therefore, I rewrote some of the the descriptions just to make the requirements 
 Please refer to this link: __http://bit.ly/2ANdfMW__
 - __12/12__
 If you fix all the bugs, only __one epoch of training__ would be enough to get an accuracy of around 80%. Therefore, those who do not have any GPU, please feel free to tackle this problem. (In fact, I myself did not use any GPU till I finished designing this quest.)
+- __12/19__
+I found an unnecessary function in data_utils.py and deleted it. This change would have no effect on the applicants and the challenge itself. (It was kind of a test code written in my Jupyter notebook, and I accidentally copy-and-pasted it while I was making all the code into python files. My bad :/)  
 
 # Usage
 
