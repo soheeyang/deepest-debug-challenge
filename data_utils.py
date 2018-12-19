@@ -33,9 +33,3 @@ def text2ind(text, raw_text=True, max_len=max_len):
 
 def ind2text(inds):
     return ''.join(map(lambda ind: ind2vocab[ind] if ind >= 0 else '', inds))
-
-def sentiment(text, raw_text=True):
-    output = neural_net(torch.tensor(
-        data_utils.text2ind(text, raw_text=raw_text)).unsqueeze(0))
-    val, pred = output.softmax(dim=-1).max(dim=-1)
-    return ('positive' if pred == 1 else 'negative', val.item())
